@@ -1,2 +1,4 @@
 This is feature file
 This is second line of feature branch file
+Added Reset changes
+
